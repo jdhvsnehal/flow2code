@@ -1,0 +1,6 @@
+Start
+Input a, b
+if (a>b)
+True Print a False Print b
+Stop
+
